@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/andrei-miasco/ActiveDirectoryLab)
 
-  - [Ticketing System Lab]
+  - [Ticketing System Lab](https://github.com/andrei-miasco/TicketingSystemLab)
 
   - [Packet Tracer Home Lab](https://github.com/andrei-miasco/PacketTracerLAN)
 
