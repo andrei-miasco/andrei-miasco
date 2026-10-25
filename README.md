@@ -6,6 +6,8 @@
 
   - [Ticketing System Lab]
 
+  - [Packet Tracer Home Lab](https://github.com/andrei-miasco/PacketTracerLAN)
+
 
 <h2> Certifications </h2>
 
